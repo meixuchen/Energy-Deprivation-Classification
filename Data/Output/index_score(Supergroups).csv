@@ -1,0 +1,41 @@
+,A:Energy Efficient Suburbs,B:Energy-Secure Seniors,C:Energy-Efficiency Urbanities,D:Rural Energy Inefficiency,E:Energy Vulnerable Suburbs,F:Energy Deprived Periphery
+Efficiency a-b,153.0,77.0,137.0,100.0,64.0,73.0
+Efficiency e-g,82.0,97.0,75.0,194.0,65.0,94.0
+Gas consumption,97.0,123.0,83.0,114.0,86.0,93.0
+Electricity consumption,98.0,107.0,88.0,123.0,89.0,94.0
+Fossil fuels,98.0,112.0,83.0,85.0,110.0,102.0
+Co2 emissions,88.0,114.0,77.0,143.0,86.0,86.0
+Old property,82.0,50.0,186.0,119.0,63.0,143.0
+New property,133.0,86.0,145.0,99.0,65.0,77.0
+Without gas grid,54.0,29.0,234.0,282.0,49.0,86.0
+Prepay electricity,64.0,25.0,102.0,59.0,179.0,188.0
+No central heating,77.0,42.0,204.0,116.0,82.0,142.0
+Renewable only,52.0,54.0,61.0,408.0,40.0,33.0
+Electricity only,73.0,30.0,250.0,131.0,82.0,118.0
+Age 0-4,114.0,82.0,86.0,73.0,106.0,133.0
+Age 75+,88.0,133.0,62.0,150.0,96.0,53.0
+Lone parent & children,105.0,55.0,78.0,54.0,133.0,173.0
+Large household size,80.0,57.0,83.0,57.0,71.0,277.0
+Under occupancy,107.0,125.0,68.0,118.0,92.0,72.0
+Retired,96.0,134.0,55.0,139.0,93.0,60.0
+Disabled or long sick,74.0,50.0,86.0,67.0,183.0,140.0
+Family care,86.0,69.0,80.0,78.0,116.0,176.0
+Non-english speaking,74.0,29.0,225.0,23.0,59.0,275.0
+Detached,92.0,188.0,16.0,201.0,40.0,26.0
+Semi-detached,118.0,129.0,26.0,88.0,115.0,82.0
+Terraced,118.0,44.0,75.0,59.0,137.0,160.0
+Flat,66.0,24.0,296.0,44.0,123.0,141.0
+Shared house,63.0,24.0,425.0,58.0,30.0,160.0
+Owns outright,100.0,146.0,55.0,141.0,76.0,60.0
+Social rented,64.0,23.0,107.0,52.0,201.0,166.0
+Private rented,98.0,50.0,221.0,80.0,64.0,153.0
+Mortgage & shared own,123.0,127.0,71.0,96.0,87.0,74.0
+Income,102.0,117.0,115.0,112.0,78.0,81.0
+Universal credit,81.0,44.0,114.0,57.0,147.0,174.0
+Elementary occupation,82.0,61.0,88.0,76.0,143.0,154.0
+Unpaid care,91.0,92.0,59.0,94.0,137.0,109.0
+Unemployment,67.0,59.0,125.0,64.0,173.0,126.0
+Part-time employment,106.0,99.0,86.0,101.0,93.0,110.0
+Student,79.0,73.0,220.0,65.0,78.0,145.0
+Ethnic minority,88.0,50.0,177.0,23.0,35.0,292.0
+Entry-level qualification,82.0,83.0,64.0,93.0,151.0,113.0
